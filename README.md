@@ -1,3 +1,37 @@
+# MakerBit
+
+The MakerBit connects to the Calliope mini to provide easy connections to a wide variety of sensors, actuators and other components.
+This MakeCode extension includes our complete set of extensions for the MakerBit board.
+
+http://makerbit.com/
+
+| ![MakerBit](https://github.com/1010Technologies/pxt-makerbit/raw/master/MakerBit.png "MakerBit") | ![MakerBit+R](https://github.com/1010Technologies/pxt-makerbit/raw/master/MakerBit+R.png "MakerBit+R") |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+|                                            _MakerBit_                                            |                                   _MakerBit+R with motor controller_                                   |
+
+## Extensions & Notes
+
+Bluetooth is disabled by default to save memory.
+
+[MakerBit-Touch](https://github.com/1010Technologies/pxt-makerbit-touch)
+
+[MakerBit-Motor-Calliope](https://github.com/MKleinSB/pxt-makerbit-motor-calliope)
+
+[MakerBit-MP3](https://github.com/1010Technologies/pxt-makerbit-mp3)
+
+[MakerBit-LCD1602](https://github.com/1010Technologies/pxt-makerbit-lcd1602)
+
+[MakerBit-Ultrasonic](https://github.com/1010Technologies/pxt-makerbit-ultrasonic)
+
+[MakerBit-IR-Receiver](https://github.com/1010Technologies/pxt-makerbit-ir-receiver)
+
+[MakerBit-Pins-Calliope](https://github.com/MKleinSB/pxt-makerbit-pins-calliope)
+
+[MakerBit-HC-SR04-Clap](https://github.com/1010Technologies/pxt-makerbit-hc-sr04-clap)
+
+## License
+
+MIT
 
 > Diese Seite bei [https://mkleinsb.github.io/pxt-makerbit-2/](https://mkleinsb.github.io/pxt-makerbit-2/) öffnen
 
@@ -18,14 +52,8 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/mkleinsb/pxt-makerbit-2** ein und klicke auf Importieren
 
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/mkleinsb/pxt-makerbit-2/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
-* for PXT/microbit
+* for PXT/calliope
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
