@@ -1,9 +1,13 @@
-# MakerBit
+# MakerBit (v2-Core)
 
 The MakerBit connects to the Calliope mini to provide easy connections to a wide variety of sensors, actuators and other components.
 This MakeCode extension includes our complete set of extensions for the MakerBit board.
 
 http://makerbit.com/
+
+Further informations on how to connect the Calliope Mini to the MakerBit:
+
+https://www.hackster.io/calliope-makerbit-team/makerbit-am-calliope-mini-4ce1e2 (sorry, only german)
 
 | ![MakerBit](https://github.com/1010Technologies/pxt-makerbit/raw/master/MakerBit.png "MakerBit") | ![MakerBit+R](https://github.com/1010Technologies/pxt-makerbit/raw/master/MakerBit+R.png "MakerBit+R") |
 | :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
