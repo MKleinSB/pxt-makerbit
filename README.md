@@ -17,23 +17,27 @@ Bluetooth is disabled by default to save memory.
 
 [MakerBit-Motor-Calliope](https://github.com/MKleinSB/pxt-makerbit-motor-calliope)
 
-[MakerBit-MP3](https://github.com/MKleinSB/pxt-makerbit-mp3) (Fixed Version!)
+[MakerBit-Pins-Calliope](https://github.com/MKleinSB/pxt-makerbit-pins-calliope)
 
 [MakerBit-LCD1602](https://github.com/1010Technologies/pxt-makerbit-lcd1602)
+
+**For the following Extensions the Calliope mini pins are not mapped. So look at the graphic below to see the correct pins.
+
+[MakerBit-MP3](https://github.com/MKleinSB/pxt-makerbit-mp3) (Fixed Version!) RX = C16  TX = C17
 
 [MakerBit-Ultrasonic](https://github.com/1010Technologies/pxt-makerbit-ultrasonic)
 
 [MakerBit-IR-Receiver](https://github.com/1010Technologies/pxt-makerbit-ir-receiver)
 
-[MakerBit-Pins-Calliope](https://github.com/MKleinSB/pxt-makerbit-pins-calliope)
-
 [MakerBit-HC-SR04-Clap](https://github.com/1010Technologies/pxt-makerbit-hc-sr04-clap)
+
+![Pins](https://github.com/MKleinSB/pxt-makerbit/blob/master/MBPins.png "Calliope Pins")
 
 ## License
 
 MIT
 
-> Diese Seite bei [https://mkleinsb.github.io/pxt-makerbit-2/](https://mkleinsb.github.io/pxt-makerbit-2/) öffnen
+> Diese Seite bei [https://mkleinsb.github.io/pxt-makerbit/](https://mkleinsb.github.io/pxt-makerbit/) öffnen
 
 ## Als Erweiterung verwenden
 
@@ -42,15 +46,15 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Neues Projekt**
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/mkleinsb/pxt-makerbit-2** suchen und importieren
+* nach **https://github.com/mkleinsb/pxt-makerbit** suchen und importieren
 
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/mkleinsb/pxt-makerbit-2/workflows/MakeCode/badge.svg)
+## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/mkleinsb/pxt-makerbit/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
 
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/mkleinsb/pxt-makerbit-2** ein und klicke auf Importieren
+* füge **https://github.com/mkleinsb/pxt-makerbit** ein und klicke auf Importieren
 
 
 #### Metadaten (verwendet für Suche, Rendering)
