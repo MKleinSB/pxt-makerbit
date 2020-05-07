@@ -7,7 +7,7 @@
         "makerbit-pins-calliope": "github:mkleinsb/pxt-makerbit-pins-calliope#v0.1.13",
         "MakerBit-Touch": "github:1010technologies/pxt-makerbit-touch#v1.2.2",
         "makerbit-mp3": "github:mkleinsb/pxt-makerbit-mp3#v0.0.8",
-        "MakerBit-Motor-Calliope": "github:mkleinsb/pxt-makerbit-motor-calliope#v0.0.16",
+        "MakerBit-Motor-Calliope": "github:mkleinsb/pxt-makerbit-motor-calliope#v0.0.17",
         "MakerBit-LCD1602": "github:1010technologies/pxt-makerbit-lcd1602#v1.4.0",
         "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.2",
         "MakerBit-IR-Receiver": "github:1010technologies/pxt-makerbit-ir-receiver#v1.0.0",
