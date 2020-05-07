@@ -17,7 +17,7 @@ Bluetooth is disabled by default to save memory.
 
 [MakerBit-Motor-Calliope](https://github.com/MKleinSB/pxt-makerbit-motor-calliope)
 
-[MakerBit-MP3](https://github.com/1010Technologies/pxt-makerbit-mp3)
+[MakerBit-MP3](https://github.com/MKleinSB/pxt-makerbit-mp3) (Fixed Version!)
 
 [MakerBit-LCD1602](https://github.com/1010Technologies/pxt-makerbit-lcd1602)
 
