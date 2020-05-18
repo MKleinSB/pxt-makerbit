@@ -3,7 +3,7 @@
 The MakerBit connects to the Calliope mini to provide easy connections to a wide variety of sensors, actuators and other components.
 This MakeCode extension includes our complete set of extensions for the MakerBit board.
 
-http://makerbit.com/
+https://1010technologies.com/
 
 Further informations on how to connect the Calliope Mini to the MakerBit:
 
