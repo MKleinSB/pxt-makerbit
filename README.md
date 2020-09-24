@@ -1,4 +1,4 @@
-# MakerBit (v2-Core)
+# MakerBit Calliope mini (v2-Core)
 
 The MakerBit connects to the Calliope mini to provide easy connections to a wide variety of sensors, actuators and other components.
 This MakeCode extension includes our complete set of extensions for the MakerBit board.
@@ -32,6 +32,8 @@ Bluetooth is disabled by default to save memory.
 [MakerBit-Ultrasonic](https://github.com/1010Technologies/pxt-makerbit-ultrasonic)
 
 [MakerBit-IR-Receiver](https://github.com/1010Technologies/pxt-makerbit-ir-receiver)
+
+[MakerBit-IR-Transmitter](https://github.com/1010Technologies/pxt-makerbit-ir-transmitter)
 
 [MakerBit-HC-SR04-Clap](https://github.com/1010Technologies/pxt-makerbit-hc-sr04-clap)
 
