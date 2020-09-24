@@ -12,7 +12,8 @@
         "MakerBit-IR-Receiver": "github:1010technologies/pxt-makerbit-ir-receiver#v1.5.2",
         "MakerBit-HC-SR04-Clap": "github:1010technologies/pxt-makerbit-hc-sr04-clap#v0.0.6",
         "pxt-comment-block": "github:iowadave/pxt-comment-block#v0.0.4",
-        "MakerBit-MP3": "github:1010technologies/pxt-makerbit-mp3#v1.0.7"
+        "MakerBit-MP3": "github:1010technologies/pxt-makerbit-mp3#v1.0.7",
+        "MakerBit-IR-Transmitter": "github:1010technologies/pxt-makerbit-ir-transmitter#v1.0.0"
     },
     "files": [
         "README.md",
