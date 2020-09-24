@@ -27,7 +27,7 @@ Bluetooth is disabled by default to save memory.
 
 **For the following Extensions the Calliope mini pins are not mapped. So look at the graphic below to see the correct pins.**
 
-[MakerBit-MP3](https://github.com/MKleinSB/pxt-makerbit-mp3) (Fixed Version!) RX = C16  TX = C17
+[MakerBit-MP3](https://github.com/MKleinSB/pxt-makerbit-mp3) RX = C16  TX = C17
 
 [MakerBit-Ultrasonic](https://github.com/1010Technologies/pxt-makerbit-ultrasonic)
 
